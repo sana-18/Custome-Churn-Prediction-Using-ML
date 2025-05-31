@@ -64,7 +64,7 @@ Evaluation metrics used include:
 ## 📁 Project Structure
 
 ```
-.
+
 ├── code-source.ipynb           # Jupyter Notebook with full ML workflow
 ├── app.py                      # Streamlit application for deployment
 ├── requirements.txt            # Python dependencies
