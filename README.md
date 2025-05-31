@@ -17,6 +17,21 @@ We leverage multiple models and select the one that performs best, ensuring a ro
 
 ---
 
+---
+
+## 📂 Dataset
+
+The dataset used includes features such as:
+
+- Customer demographics
+- Subscription type and duration
+- Historical interactions
+- Churn labels (Yes/No)
+
+It was cleaned and preprocessed to ensure quality training input.
+
+---
+
 ## 📊 Model Selection and Evaluation
 
 Before finalizing the model, we tested and compared the following classifiers:
@@ -102,23 +117,10 @@ streamlit run app.py
 This app provides:
 
 - Data preview
-- Model comparison summary
+- Project Workflow 
 - Live churn predictions
 
----
 
-## 📂 Dataset
-
-The dataset used includes features such as:
-
-- Customer demographics
-- Subscription type and duration
-- Historical interactions
-- Churn labels (Yes/No)
-
-It was cleaned and preprocessed to ensure quality training input.
-
----
 
 
 
